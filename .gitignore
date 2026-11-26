@@ -11,3 +11,6 @@ __pycache__/
 # Common OS junk files
 .DS_Store
 Thumbs.db
+# NIST CFAST executable (installed separately; never committed)
+cfast.exe
+*.exe
